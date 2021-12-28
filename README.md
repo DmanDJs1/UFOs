@@ -9,6 +9,11 @@ The purpose of this challenge was to create an informative and intuitive webpage
 
 ![image](https://github.com/DmanDJs1/UFOs/blob/main/static/images/WebpageFinal.png?raw=true) 
 
+Here is an example of a search by one of the criterea (Shape : Circle)
+
+![image](https://user-images.githubusercontent.com/91692536/147597190-fbdc361c-c8e0-4476-a2b3-dfa208ffa9a3.png)
+
+
 ## Summary
   Drawback of this webpage
 
