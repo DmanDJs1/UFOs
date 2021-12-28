@@ -10,7 +10,7 @@ The purpose of this challenge was to create an informative and intuitive webpage
 ## Summary
   Drawback of this webpage
 
-  The input fields are case-sensitive and will not give any output results unless all (date, city, state, country, and shape) are exactly the way it has been wrtiten.
+  The input fields are case-sensitive and will not give any output results unless all of the criteria’s are met. They include the date, city, state, country, and shape of objects observed which must be exactly the way as they are written.
   The following are recommendations for further development:
 
     1. Add another drop-down menu that will help futher drill down to desired results.
